@@ -7,9 +7,9 @@ Also, while designing this system, I wanted to make it as easy as possible and a
 - Rust
 - Minecraft
 
-To read more about what the functionality is doing, go to the **[Documentation](https://www.markdownguide.org)** \
-You also have a basic example **[here]()** \
+To read more about what the functionality is doing, go to the **[Documentation](https://github.com/FernandoCCNunes/unreal-inventory-system-cpp/edit/main/Documentation.md)**.
+You also have a basic example **[here](https://github.com/FernandoCCNunes/unreal-inventory-system-cpp/edit/main/Example.md)**.
 
-More examples will come with videos on how to setup different types of inventories \
+More examples will come with videos on how to setup different types of inventories.
 
-If you encounter bugs or errors, please point them out **[here](https://github.com/FernandoCCNunes/unreal-inventory-system-cpp/issues)**
+If you encounter bugs or errors, please point them out **[here](https://github.com/FernandoCCNunes/unreal-inventory-system-cpp/issues)**.
